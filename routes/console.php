@@ -1,8 +1,8 @@
 <?php
 
+use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Inspiring;
 use Illuminate\Support\Facades\Artisan;
-use Illuminate\Console\Scheduling\Schedule;
 use Spatie\ScheduleMonitor\Models\MonitoredScheduledTaskLogItem;
 
 Artisan::command('inspire', function () {

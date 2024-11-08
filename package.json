@@ -4,7 +4,7 @@
     "scripts": {
         "build": "vite build",
         "dev": "vite",
-        "lint": "npx prettier --write . && ./vendor/bin/pint"
+        "lint": "npx prettier --write . && ./vendor/bin/pint && ./vendor/bin/duster fix"
     },
     "devDependencies": {
         "@tailwindcss/forms": "^0.5.2",

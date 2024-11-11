@@ -1,0 +1,42 @@
+## Thigs to do 
+
+- [ ] Add a `robots.txt` file to the project
+- [ ] setup bug tracker eg. sentry or flare
+- [ ] setup good readme
+    - [ ] How to set up your app 
+    - [ ] Configuration for any dependencies 
+    - [ ] Any specifications of how to work or contribute
+- [ ] Fake Data for all models
+- [ ] Opengraph tags for main pages and possibally all pages [check link](https://www.opengraph.xyz/)
+- [ ] CI/CD pipeline ( [Github Actions](https://mattstauffer.com/blog/how-to-trigger-a-webhook-on-a-schedule-using-github-actions/) )
+- [ ] Pest Architecture
+- [ ] Mailtrap
+- [ ] Papertrail
+- [ ] Laravel Telescope Local dev
+- [ ] Laravel Pulse Production dev
+- [ ] Laravel Horizon
+- [ ] Gitflow
+- [ ] Composer outdated
+- [ ] Composer audit
+- [ ] Secure Cookies
+- [ ] .env encryption
+- [ ] flux on new branch
+- [ ] Check accessibility on frontend always
+- [ ] concurrency, deffer for small queus and jobs, chaperone (n+1), cache:flexible, temporary url, use more attributes,
+- [ ] franken php 
+- [ ] Laravel octane
+- [ ] Livewire debug with [Wirespy](https://github.com/wire-elements/wire-spy)
+- [ ] Laravel Filament
+- [ ] Laravel Permissions with Spatie
+- [ ] Laravel Tags with Spatie
+- [ ] Laravel Media Library with Spatie
+- [ ] Laravel Activity Log with Spatie
+- [ ] Laravel Backup with Spatie
+- [ ] Laravel [Modules](https://laravelmodules.com/)
+- [ ] Laravel Debugbar
+- [ ] Laravel IDE Helper
+- [ ] Laravel Socialite
+- [ ] Laravel Cashier
+- [ ] Laravel Scout
+- [ ] Laravel Sanctum
+- [ ] Laravel Excel

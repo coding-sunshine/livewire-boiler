@@ -1,5 +1,8 @@
 {
-    "private": true,
+    "name": "laravel-livewire-boiler",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": false,
     "type": "module",
     "scripts": {
         "build": "vite build",

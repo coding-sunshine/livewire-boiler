@@ -1,6 +1,6 @@
 ## Thigs to do 
 
-- [ ] Add a `robots.txt` file to the project
+- [x] Add a `robots.txt` file to the project
 - [ ] setup bug tracker eg. sentry or flare
 - [ ] setup good readme
     - [ ] How to set up your app 

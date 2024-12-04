@@ -7,6 +7,7 @@
     - [ ] Configuration for any dependencies 
     - [ ] Any specifications of how to work or contribute
 - [ ] Fake Data for all models
+- [x] Laravel Folio
 - [ ] Opengraph tags for main pages and possibally all pages [check link](https://www.opengraph.xyz/)
 - [ ] CI/CD pipeline ( [Github Actions](https://mattstauffer.com/blog/how-to-trigger-a-webhook-on-a-schedule-using-github-actions/) )
 - [ ] Pest Architecture

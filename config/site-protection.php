@@ -7,8 +7,8 @@ return [
     | Passwords For Laravel Site Protection
     |--------------------------------------------------------------------------
     |
-    | 
-    | 
+    |
+    |
     |
     */
 
@@ -60,5 +60,5 @@ return [
     |
     */
 
-    'cookie_lifetime' => env('SITE_PROTECTION_COOKIE_LIFETIME', 365*24*60*60),
+    'cookie_lifetime' => env('SITE_PROTECTION_COOKIE_LIFETIME', 365 * 24 * 60 * 60),
 ];

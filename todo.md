@@ -3,6 +3,7 @@
 - [x] Add a `robots.txt` file to the project
 - [x] Add site protection when in dev mode.
 - [x] Add theme support for laravel
+- [x] Add Laravel Sushi
 - [ ] setup bug tracker eg. sentry or flare
 - [ ] setup good readme
     - [ ] How to set up your app 
